@@ -19,6 +19,7 @@ Chat IA local:
 **📁 Estructura de archivos**
 
 bot_ds/
+
  ├── bot.py               # Punto de entrada: define eventos y comandos de Discord  
  ├── gpt2_module.py       # Carga GPT-2 Medium y función generar_texto()  
  ├── test.py              # Script de prueba independiente  
