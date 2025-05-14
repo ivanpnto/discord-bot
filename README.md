@@ -1,4 +1,5 @@
 **📄 Descripción**
+
 Este proyecto es un bot de Discord en Python que combina funcionalidades de reproducción de música, comandos básicos y un módulo de generación de texto con GPT-2 ejecutado localmente. Está diseñado para ser fácil de desplegar y extender, usando discord.py para la interacción con Discord, yt-dlp y FFmpeg para audio, y Hugging Face Transformers para IA local.
 
 **🚀 Características principales**
