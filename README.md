@@ -48,6 +48,7 @@ DISCORD_TOKEN=TU_BOT_TOKEN_AQUI
 Nunca subas .env ni tu token a repos públicos.
 
 **▶️ Uso**
+
 Arrancar el bot:
 
 python bot.py
@@ -64,4 +65,5 @@ Comandos en Discord:
 !chat ¿Cómo estás? → Genera respuesta IA local 
 
 **🙋 Autor**
+
 Desarrollado por **Iván Pinto** como proyecto personal de **Ingeniería Informática**.
