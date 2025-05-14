@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+venv311/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración local
+.env
+
+# Otros
+*.log
